@@ -8,7 +8,7 @@ Install
 
 Copy it into /etc/bash_completition.d/.
 
-You need also to the bash-completion package:
+You need also the bash-completion package:
 
     apt-get install bash-completion
 
